@@ -11,7 +11,6 @@ import java.util.Scanner;
  * @author ICT
  */
 public class bai4 {
-
     private static String[] args;
     public static void main(String[] args) {
         menu();

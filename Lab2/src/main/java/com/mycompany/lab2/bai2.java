@@ -11,7 +11,6 @@ import java.util.Scanner;
  * @author ICT
  */
 public class bai2 {
-
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         double a,b,c,x,x1,x2,delta;
